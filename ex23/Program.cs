@@ -17,6 +17,6 @@ for (int i = 1; i <= number; i++)
 for (int i = 0; i < number; i++)
 {
     Console.Write(degree[i]);
-    if (i<number -1)
-    System.Console.Write(", ");
+    if (i < number - 1)
+        System.Console.Write(", ");
 }
